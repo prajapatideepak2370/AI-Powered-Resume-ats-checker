@@ -79,10 +79,12 @@ What needs to be installed before:
 - Any system dependencies (e.g. `ffmpeg`, `sox`, etc. if used)
   
 ### PICTURE
-![24708cab56a94daa905670c068fee75c](https://github.com/user-attachments/assets/ca9bed5e-b333-4745-932f-feda0b279594)
-![73ae274055184590b72c2cd2efa6a213](https://github.com/user-attachments/assets/cefa68c4-3e37-4d0d-a5d5-621f2437e10d)
-![b6f5ed65b641410e8489cc2a1516420a](https://github.com/user-attachments/assets/f2e5b18a-2e4e-4e61-b394-b0d5946d86bb)
-![7aafaa6e625a4acbbea4c780835d93f1](https://github.com/user-attachments/assets/22d1bfea-9017-4498-b34a-39fde747b5b0)
+![24708cab56a94daa905670c068fee75c](https://github.com/user-attachments/assets/182adbe3-c910-4997-bd98-e69de9b5000d)
+![73ae274055184590b72c2cd2efa6a213](https://github.com/user-attachments/assets/9a63ffad-4658-487b-8539-f80be0b529b4)
+![b6f5ed65b641410e8489cc2a1516420a](https://github.com/user-attachments/assets/2ee11d4d-6e46-468c-8892-4202b25fcfc7)
+![7aafaa6e625a4acbbea4c780835d93f1](https://github.com/user-attachments/assets/502fdff5-b214-497c-bd1c-5801d11b57c8)
+
+
 
 ### Installation
 
