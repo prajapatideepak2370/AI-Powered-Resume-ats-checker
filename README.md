@@ -4,10 +4,6 @@ A succinct one-liner about what your project does.
 _E.g._: “An AI-powered platform to help students choose and prepare for their ideal career path.”
 An AI-driven tool that analyzes resumes and evaluates their compatibility with Applicant Tracking Systems (ATS). It provides feedback on keywords, formatting, structure, and suggests improvements to help job seekers increase their chances of passing automated resume screening.
 
-#🚀 Overview
-
-This project lets users upload their resume and receive an ATS score and actionable recommendations powered by AI. The tool parses resume content, evaluates it against common ATS criteria, and highlights areas to improve for better job application success.
-
 ## Table of Contents
 
 - [Overview](#overview)  
@@ -30,6 +26,7 @@ This project lets users upload their resume and receive an ATS score and actiona
 
 ## Overview
 
+This project lets users upload their resume and receive an ATS score and actionable recommendations powered by AI. The tool parses resume content, evaluates it against common ATS criteria, and highlights areas to improve for better job application success.
 Give a more detailed description of your project:
 
 - What problem does it solve?  
