@@ -70,16 +70,16 @@ You can embed a simple ASCII/Markdown diagram or link to an image.
 
 ## How It Works
 
-Upload Resume
+Upload Resume-
 Users upload a resume file via the web UI.
 
-Parse Content
+Parse Content-
 The backend extracts text from the resume and preprocesses it.
 
-AI Analysis
+AI Analysis-
 Content is run through an AI model (GPT-based or similar) to assess ATS compatibility.
 
-Feedback
+Feedback-
 Results include a score and detailed feedback for improvements.
 
 ## Getting Started
