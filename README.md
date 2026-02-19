@@ -50,8 +50,7 @@ Include backend, frontend, ML, databases, libraries, etc.
 | Layer | Technology |
 |-------|------------|
 | Backend | Python, Flask / FastAPI / Django (whichever you use) |
-| Machine Learning / AI | (e.g. scikit-learn, transformers, TensorFlow, PyTorch) |
-| Frontend | (if there is UI) React / Vue / plain HTML+CSS / JS |
+| Frontend | Steamlit / plain HTML+CSS / Python |
 | Database | (MySQL / PostgreSQL / MongoDB / etc.) |
 | Deployment / Hosting | (Heroku, AWS, GCP, Docker, etc.) |
 | Others / Utilities | (NLP libs, Auth, Logging, Caching, etc.) |
